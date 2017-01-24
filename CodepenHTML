@@ -1,0 +1,46 @@
+Codepen HTML:
+<body>
+  <nav>
+     <button class="buttonmenu">Menu</button>
+    <span class="naam">Instellingen </span>
+
+  <div class="bmenu">
+  <ul>
+    <li>Home</li>
+    <li>Mijn fotodagboek</li>
+    <li>Mijn groep</li>
+    <li>Y-Bocs</li>
+    <li>Instellingen</li>
+    <li>Afmelden</li>
+  </ul>
+   </div>
+
+  </nav>
+  
+  <div class="container">
+    <h1>Meldingen aanpassen</h1>
+    <div class="box">
+      <div class="row">
+        <span>Alarm</span>
+        <div id="mini-container">
+          <span id="small">Trillen</span>
+          <img src="http://img.freepik.com/iconen-gratis/arrow-punt-naar-rechts_318-48452.jpg?size=338&ext=jpg" alt="arrow to next page">
+        </div>
+      </div>
+    </div>
+
+    <h2>Melding</h2>
+    <div class="box">
+      <div class="row"><span>Vriendschapsverzoek</span><button>Aan</button></div>
+      <div class="row"><span>Vriend heeft een bericht geplaatst</span><button>Uit</button></div>
+    </div>
+    
+    <h2>Vaste meldingen</h2>
+    <div class="box">
+      <div class="row"><span>Y-Bocs test is zichtbaar</span></div>
+      <div class="row"><span>Locatie</span></div>
+      <div class="row"><span>Agenda</span></div>
+      <div class="row"><span>Twee weken terug</span></div>
+    </div>
+</div>
+</body>
