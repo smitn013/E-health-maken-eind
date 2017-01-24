@@ -41,7 +41,7 @@ De flow van notificaties hoe ik ze wil toepassen kan alleen in een Native applic
 Daarnaast heb ik geprobeerd een toggle switch toe te passen in mijn code. Dit vond ik echt een hele lastige taak en ben er uren mee bezig geweest. Ik heb hem wel kunnen aanpassen maar het is mij nog steeds niet gelukt om hem 100% goed te laten werken. Ik snap de code dat gebruikt wordt en alleen kom ik er zelf niet uit waarom hij steeds boven het menu blijft staan. Het is nog wel een must have in mijn code naar mij mening. Ik heb het wel geprobeerd en daarom heb ik een tweede link toegevoegd hieronder om te laten zien dat ik er wel mee bezig ben geweest.
 
 <b>Mijn ontwerpen:</b>
-Mijn eerste ontwerp in codepen: http://codepen.io/NikkiSmit/pen/QdMyMz
+Mijn eerste ontwerp in codepen: http://codepen.io/NikkiSmit/pen/QdMyMz<br></br>
 Mijn ontwerp waar ik de toggleswitch heb toegepast: http://codepen.io/NikkiSmit/pen/YNxGZV
 
 <b>Wat heb ik geleerd:</b>
