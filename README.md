@@ -3,7 +3,7 @@
 <b>Inleiding:</b>
 
 
-Mijn uitdaging: Mijn uitdaging voor het vak maken is meer kennis verkrijgen wat er mogelijk is in Code/ Javascript. Ik ben zelf niet goed in het schrijven van Code/Javascript maar als ik het uitgewerkt zie snap ik dit meestal wel. Ik wil gaan of het mij lukt om javascipt en uitgebruide CSS kan toepassen in mijn eigen code en wat voor gave dingen je nog meer kan doen. Als designer is het handig om te weten wat de mogelijkheden zijn van code, zodat je altijd iets ontwerpt wat ook daadwerkelijk kan en niet pas erachter komt dat het niet kan als het ontwerp al definitief is. Dit wil ik in het project voornamelijk doen door veel onderzoek en wellicht als het lukt in de praktijk toepassen.
+<b>Mijn uitdaging:</b> Mijn uitdaging voor het vak maken is meer kennis verkrijgen wat er mogelijk is in Code/ Javascript. Ik ben zelf niet goed in het schrijven van Code/Javascript maar als ik het uitgewerkt zie snap ik dit meestal wel. Ik wil gaan of het mij lukt om javascipt en uitgebruide CSS kan toepassen in mijn eigen code en wat voor gave dingen je nog meer kan doen. Als designer is het handig om te weten wat de mogelijkheden zijn van code, zodat je altijd iets ontwerpt wat ook daadwerkelijk kan en niet pas erachter komt dat het niet kan als het ontwerp al definitief is. Dit wil ik in het project voornamelijk doen door veel onderzoek en wellicht als het lukt in de praktijk toepassen.
 
 <b>Begin, POC:</b>
 
@@ -37,13 +37,13 @@ Conclusie Er zijn verschillende soorten mogelijkheden om een notificatie toe te 
 
 <b>Eindproduct:</b>
 
-De flow van notificaties hoe ik ze wil toepassen kan alleen in een Native applicatie. Om voor ontwerpen toch iets te kunnen maken wat te maken heeft met mijn deelvraag heb ik één van mijn ontwerpen gecodeerd. Ik heb hiervoor de instellingen scherm gepakt voor de meldingen en dit scherm ben ik in code gaan uitwerken. Ik vond tijdens de lezen codepen erg handig werken en ik heb hier mijn eindscherm gaan uitwerken. In week drie hebben wij een link van de website(Css tricks,2016) gehad waarin staat uitgelegd hoe je een button maakt en deze een toggle mee geeft. Ik heb dit nog nooit gebruikt en heb dit in mijn code toegepast. 
+De flow van notificaties hoe ik ze wil toepassen kan alleen in een Native applicatie. Om voor ontwerpen toch iets te kunnen maken wat te maken heeft met mijn deelvraag heb ik één van mijn ontwerpen gecodeerd. Ik heb hiervoor de instellingen scherm gepakt voor de meldingen en dit scherm ben ik in code gaan uitwerken. Ik vond tijdens de lezen codepen erg handig werken en ik heb hier mijn eindscherm gaan uitwerken. In week drie hebben wij een link van de website(Css tricks,2016) gehad waarin staat uitgelegd hoe je een button maakt en deze een toggle mee geeft in javascript. Ik heb dit nog nooit gebruikt en heb dit in mijn code toegepast. 
 
-<b>Wat gaat er nog niet goed</b>
-Daarnaast heb ik geprobeerd een toggle switch toe te passen in mijn code. Dit vond ik echt een hele lastige taak en ben er uren mee bezig geweest. Ik heb hem wel kunnen aanpassen maar het is mij nog steeds niet gelukt om hem 100% goed te laten werken. Ik snap de code dat gebruikt wordt en alleen kom ik er zelf niet uit waarom hij steeds boven het menu blijft staan. 
+<b>Must Have</b>
+Daarnaast heb ik geprobeerd een toggle switch toe te passen in mijn code. Dit vond ik echt een hele lastige taak en ben er uren mee bezig geweest. Ik heb hem wel kunnen aanpassen maar het is mij nog steeds niet gelukt om hem 100% goed te laten werken. Ik snap de code dat gebruikt wordt en alleen kom ik er zelf niet uit waarom hij steeds boven het menu blijft staan. Het is nog wel een must have in mijn code naar mij mening. Ik heb het wel geprobeerd en daarom heb ik een tweede link toegevoegd hieronder om te laten zien dat ik er wel mee bezig ben geweest.
 
 Mijn ontwerpen:
-Mijn eerste code ontwerp zonder de toggleswitch in codepen: http://codepen.io/NikkiSmit/pen/QdMyMz
+Mijn eerste ontwerp in codepen: http://codepen.io/NikkiSmit/pen/QdMyMz
 Mijn ontwerp waar ik de toggleswitch heb toegepast: http://codepen.io/NikkiSmit/pen/YNxGZV
 
 <b>Wat heb ik geleerd:</b>
