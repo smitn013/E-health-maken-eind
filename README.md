@@ -1,9 +1,8 @@
 # E-health-maken-eind
 
-<b>Inleiding:</b>
 
-
-<b>Mijn uitdaging:</b> Mijn uitdaging voor het vak maken is meer kennis verkrijgen wat er mogelijk is in Code/ Javascript. Ik ben zelf niet goed in het schrijven van Code/Javascript maar als ik het uitgewerkt zie snap ik dit meestal wel. Ik wil gaan of het mij lukt om javascipt en uitgebruide CSS kan toepassen in mijn eigen code en wat voor gave dingen je nog meer kan doen. Als designer is het handig om te weten wat de mogelijkheden zijn van code, zodat je altijd iets ontwerpt wat ook daadwerkelijk kan en niet pas erachter komt dat het niet kan als het ontwerp al definitief is. Dit wil ik in het project voornamelijk doen door veel onderzoek en wellicht als het lukt in de praktijk toepassen.
+<b>Mijn uitdaging:</b> 
+Mijn uitdaging voor het vak maken is meer kennis verkrijgen wat er mogelijk is in Code/ Javascript. Ik ben zelf niet goed in het schrijven van Code/Javascript maar als ik het uitgewerkt zie snap ik dit meestal wel. Ik wil gaan of het mij lukt om javascipt en uitgebruide CSS kan toepassen in mijn eigen code en wat voor gave dingen je nog meer kan doen. Als designer is het handig om te weten wat de mogelijkheden zijn van code, zodat je altijd iets ontwerpt wat ook daadwerkelijk kan en niet pas erachter komt dat het niet kan als het ontwerp al definitief is. Dit wil ik in het project voornamelijk doen door veel onderzoek en wellicht als het lukt in de praktijk toepassen.
 
 <b>Begin, POC:</b>
 
@@ -49,7 +48,6 @@ Mijn ontwerp waar ik de toggleswitch heb toegepast: http://codepen.io/NikkiSmit/
 Ik ben er tijdens dit vak erachter gekomen dat ik altijd moeilijke code ontweek als in een werkende knop te gebruiken. Ik merk dat ik er ook erg lang mee bezig ben om een klein stukje code te laten werken. Ik zie andere er binnen een paar minuten klaar mee zijn terwijl ik er echt een uur mee bezig ben. Ik moet zeker mijn code gaan bijhouden en daarom wil ik binnenkort mijn eigen site gaan bouwen via Wordpress. Op deze manier houd ik de code bij en hoop ik er sneller en beter in te worden. Complexe code vind ik heel erg ingewikkeld en ik hoop dat ik uiteindelijk daarin wel beter ga worden. Wat ik erg jammer vond is dat ik op mijn Windows niet kan werken met Framer. Ik heb hier wel een klasgenoot mee geholpen na de workshop in de les. Ik was super nieuwschierig ernaar en geprobeerd om via een omweg toch op mijn computer te krijgen, helaas is dit mij gelukt en blijf ik hopen dat deze geweldige design tool ook voor Windows beschikbaar komt. 
 
 <b>Bronnen:</b>
-
 Kony, How to use pushnotifications: http://www.kony.com/resources/blog/how-use-push-notifications-their-full-potential Devolper, Notifications https://developer.tizen.org/development/guides/native-application/notifications-and-content-sharing/notifications PushnotificationsIOS: https://facebook.github.io/react-native/docs/pushnotificationios.html
 Css Tricks, 23 November 2016, Hey designers, if you only know one thing about JavaScript, this is what I would recommend https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/ 
 W3schools, How to switch, http://www.w3schools.com/howto/howto_css_switch.asp
