@@ -36,13 +36,12 @@ Active Notifications Actieve notificaties worden bovenin het scherm weergegeven 
 Conclusie Er zijn verschillende soorten mogelijkheden om een notificatie toe te passen en wat niet veel werk kost. Het is alleen belangrijk dat we goed gaan kijken wat voor meldingen belangrijk zijn en hoe vaak er een melding naar de gebruiker toegestuurd wordt. We moeten verder gaan onderzoeken of wij de gebruiker een kans geven om bepaalde notificaties uit te zetten of dat we dit niet doen.
 
 <b>Eindproduct:</b>
-
 De flow van notificaties hoe ik ze wil toepassen kan alleen in een Native applicatie. Om voor ontwerpen toch iets te kunnen maken wat te maken heeft met mijn deelvraag heb ik één van mijn ontwerpen gecodeerd. Ik heb hiervoor de instellingen scherm gepakt voor de meldingen en dit scherm ben ik in code gaan uitwerken. Ik vond tijdens de lezen codepen erg handig werken en ik heb hier mijn eindscherm gaan uitwerken. In week drie hebben wij een link van de website(Css tricks,2016) gehad waarin staat uitgelegd hoe je een button maakt en deze een toggle mee geeft in javascript. Ik heb dit nog nooit gebruikt en heb dit in mijn code toegepast. 
 
-<b>Must Have</b>
+<b>Must Have:</b>
 Daarnaast heb ik geprobeerd een toggle switch toe te passen in mijn code. Dit vond ik echt een hele lastige taak en ben er uren mee bezig geweest. Ik heb hem wel kunnen aanpassen maar het is mij nog steeds niet gelukt om hem 100% goed te laten werken. Ik snap de code dat gebruikt wordt en alleen kom ik er zelf niet uit waarom hij steeds boven het menu blijft staan. Het is nog wel een must have in mijn code naar mij mening. Ik heb het wel geprobeerd en daarom heb ik een tweede link toegevoegd hieronder om te laten zien dat ik er wel mee bezig ben geweest.
 
-Mijn ontwerpen:
+<b>Mijn ontwerpen:</b>
 Mijn eerste ontwerp in codepen: http://codepen.io/NikkiSmit/pen/QdMyMz
 Mijn ontwerp waar ik de toggleswitch heb toegepast: http://codepen.io/NikkiSmit/pen/YNxGZV
 
