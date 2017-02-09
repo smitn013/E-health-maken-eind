@@ -1,6 +1,6 @@
 # E-health-maken-eind
 
-<b>Prototype</b>: In het mapje Notificatie staat mijn werkende HTML prototype.
+<b>Prototype</b>: In het mapje Notificatie staat mijn werkende HTML prototype. Het scherm waar je mee moet beginnen is Front.HTML.
 
 <b>Wat heb ik geleerd tijdens dit project en bij het vak maken:</b>
 Wat ik geleerd heb tijdens het vak maken is het weer oppakken van code in het algemeen. Ik had het al een lange tijd niet meer gedaan en het is grotendeels verwatert. Ik moet dit eigenlijk gaan bijhouden om beter te worden in code anders begin ik steeds weer vanaf het begin. Ik heb tijdens de les geleerd van de artikelen waarom designen in een browser beter is. Het klopt wel dat je door het designen in een browser een betere expierience ervaart dan van een photoshop bestand. Het zijn statische beelden en kan er geen interactie mee uitvoeren. Ik ben het hier ook mee eens en daarom moet ik ook meer met code gaan doen. 
