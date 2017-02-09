@@ -1,6 +1,0 @@
-var button = document.querySelector("button");
-var element = document.querySelector("div.bmenu");
-
-button.addEventListener("click", function() {
-  element.classList.toggle("open");
-});
